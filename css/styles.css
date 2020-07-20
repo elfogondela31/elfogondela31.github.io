@@ -2,7 +2,6 @@
 /*!
 * Start Bootstrap - Creative v6.0.3 (https://startbootstrap.com/themes/creative)
 * Copyright 2013-2020 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE)
 */
 /*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
@@ -10007,7 +10006,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #a33327;
 }
 
 hr.light {
